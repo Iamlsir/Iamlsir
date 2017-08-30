@@ -1,2 +1,6 @@
-# IamlsirForTypecho
-Iamlsir theme for typecho
+# LsirThemeForTypecho
+Lsir theme for Typecho.
+
+
+
+![screenshot](screenshot.png)
